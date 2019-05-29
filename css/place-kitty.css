@@ -3,8 +3,8 @@
 .kitty-1 {
   position: absolute;
   z-index: 1;
-  top: 369px;
-  left: 129px;
+  top: 269px;
+  left: 139px;
 }
 
 /* Select the image with id of kitty-2 */
@@ -30,8 +30,8 @@
 #ball + img {
   position: absolute;
   z-index: 4;
-  top: 260px;
-  left: 455px;
+  top: 270px;
+  left: 465px;
 }
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
